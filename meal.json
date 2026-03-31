@@ -1,23 +1,40 @@
-{
-  "lastUpdated": "2026-03-18 00:05:50",
-  "items": [
-    {
-      "name": "Wonnderland",
-      "tower": "Commander",
-      "cost": 1250,
-      "currency": "Coins"
+[
+  {
+    "lastUpdated": "2026-03-18 00:05:50",
+    "items": [
+      {
+        "name": "Wonnderland",
+        "tower": "Commander",
+        "cost": 1250,
+        "currency": "Coins"
+      },
+      {
+        "name": "Champion",
+        "tower": "Accelerator",
+        "cost": 1250,
+        "currency": "Coins"
+      },
+      {
+        "name": "Elite",
+        "tower": "Accelerator",
+        "cost": 4500,
+        "currency": "Coins"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "meals": {
+      "breakfast": [
+        "sadsads"
+      ],
+      "lunch": [
+        "dsads"
+      ],
+      "dinner": [
+        "dsadsa"
+      ]
     },
-    {
-      "name": "Champion",
-      "tower": "Accelerator",
-      "cost": 1250,
-      "currency": "Coins"
-    },
-    {
-      "name": "Elite",
-      "tower": "Accelerator",
-      "cost": 4500,
-      "currency": "Coins"
-    }
-  ]
-}
+    "lastUpdated": "2026. 3. 31. 오후 7:29:46"
+  }
+]
